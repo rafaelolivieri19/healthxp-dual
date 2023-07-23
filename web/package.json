@@ -1,0 +1,21 @@
+{
+  "name": "healthxp-web-tests",
+  "version": "1.0.0",
+  "description": "Projeto de automação de teste E2E em Cypress",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "cypress",
+    "healthxp",
+    "e2e"
+  ],
+  "author": "Rafael Olivieri",
+  "license": "MIT",
+  "devDependencies": {
+    "@faker-js/faker": "^8.0.2",
+    "cypress": "^12.17.1",
+    "pg": "^8.11.1"
+  }
+}

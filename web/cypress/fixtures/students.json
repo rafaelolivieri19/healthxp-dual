@@ -1,0 +1,57 @@
+{
+    "create":{
+        "name": "Jeremy Adams",
+        "email": "jeremy@yahoo.com",
+        "age": "28",
+        "weight": "72",
+        "feet_tall": "1.80"
+    },
+
+    "duplicate":{
+        "name": "Bruce Wayne",
+        "email": "bruce@wayne.com",
+        "age": "28",
+        "weight": "72",
+        "feet_tall": "1.80"
+    },
+
+    "remove":{
+        "name": "Falcão Delete",
+        "email": "falcao@gmail.com",
+        "age": "28",
+        "weight": "72",
+        "feet_tall": "1.80"
+    },
+
+    "required":{
+        "name": "",
+        "email": "",
+        "age": "",
+        "weight": "",
+        "feet_tall": ""
+    },
+
+    "incorrect_age":{
+        "name": "Mario Roberto",
+        "email": "marioroberto@gmail.com",
+        "age": "14",
+        "weight": "78",
+        "feet_tall": "1.87"
+    },
+
+    "incorrect_weight":{
+        "name": "Thiago Silva",
+        "email": "thiagosilva@gmail.com",
+        "age": "30",
+        "weight": "-10",
+        "feet_tall": "1.87"
+    },
+
+    "incorrect_feet_tall":{
+        "name": "Antonio Pereira",
+        "email": "antoniopereira@gmail.com",
+        "age": "56",
+        "weight": "87",
+        "feet_tall": "-10"
+    }
+}
